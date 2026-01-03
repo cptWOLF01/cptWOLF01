@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @cptWOLF01
-- 👀 I’m interested in ... Desgine,Gaming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... any projects 
-- 📫 How to reach me ... himanshum9199@gmail.com
-- ⚡ Fun fact: ... X_X 
+Hi 👋, I'm Himanshu Mahire  
+🎓 Computer Engineering student  
+💻 Interested in Software Development, App Development & Game Development  
+🚀 Currently learning new technologies and building projects  
+📚 Focused on improving problem-solving and coding skills  
+
+🔧 Tech Interests:
+- Web & App Development  
+- 2D Game Development  
+- Android Development  
+
+🌱 Always learning, always building.
 
 <!---
 cptWOLF01/cptWOLF01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
