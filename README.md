@@ -167,7 +167,7 @@ My current priorities are:
 ## 🤝 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Linkedin](https://www.linkedin.com/in/himanshu-mahire-376995363/?isSelfProfile=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himanshu-mahire-376995363/)
 
 <!-- Add your LinkedIn and email links here when ready. -->
 
